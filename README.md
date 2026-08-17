@@ -59,7 +59,8 @@ Citacao: "Não há nada mais fascinante — nem mais assustador — do que aquil
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=FFFFFF" width="100%"/>
 
 <div align="center">
-<img src="./Moby Dick Fighting GIF.gif" width="100%"/>
+<img src="mobyDick.gif" width="100%"/>
+
 <sub><i>"És tu quem persegue a Baleia Branca?"</i></sub><br>
 <sub>Feito em preto, branco e código, por <b>João Pedro Silvestre</b></sub>
 </div>
