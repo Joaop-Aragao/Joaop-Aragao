@@ -12,11 +12,11 @@
 
 </div>
 
-<img src="assets/ondas.svg" width="100%" alt="Ondas animadas" />
+<img src="ondas.svg" width="100%" alt="Ondas animadas" />
 
 ## Superfície: quem sou eu
 
-Sou engenheiro de dados, apaixonado por transformar grandes volumes de informação em algo confiável, organizado e útil. Atualmente cursando pós-graduação em **[Nome do Curso]** na **[Nome da Instituição]**, aprofundando minha base teórica enquanto aplico o conhecimento em projetos reais.
+Sou engenheiro de dados, apaixonado por transformar grandes volumes de informação em algo confiável, organizado e útil. Atualmente cursando pós-graduação em **[Engenharia de dados]** na **[Descomplica]**, aprofundando minha base teórica enquanto aplico o conhecimento em projetos reais.
 
 Estou também na fase de aprendizado de **C#**, expandindo meu repertório para além do ecossistema de dados e explorando desenvolvimento orientado a objetos, APIs e aplicações .NET.
 
@@ -61,9 +61,8 @@ Estou também na fase de aprendizado de **C#**, expandindo meu repertório para 
 ![Git](https://img.shields.io/badge/Git-0077B6?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-023E8A?style=flat-square&logo=github&logoColor=white)
 
-> Ajuste os badges conforme as tecnologias que você realmente utiliza.
 
-<img src="assets/bolhas.svg" width="100%" alt="Bolhas subindo do fundo do mar" />
+<img src="bolhas.svg" width="100%" alt="Bolhas subindo do fundo do mar" />
 
 ## Expedição em andamento
 
@@ -101,8 +100,6 @@ engenheiro.Mergulhar();
 </div>
 
 ## Lançando âncora: vamos conversar
-
-Se você quer trocar ideias sobre dados, estudos ou C#, será um prazer conversar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![E-mail](https://img.shields.io/badge/E--mail-023E8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
