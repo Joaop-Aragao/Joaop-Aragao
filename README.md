@@ -91,11 +91,10 @@ engenheiro.Mergulhar();
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=48CAE4&text_color=CAF0F8&icon_color=00B4D8)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joaop-Aragao&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=48CAE4&text_color=CAF0F8&icon_color=00B4D8)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=48CAE4&text_color=CAF0F8)
 
-![Sequência de contribuições](https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D1B2A&ring=00B4D8&fire=48CAE4&currStreakLabel=CAF0F8&sideLabels=90E0EF&currStreakNum=CAF0F8&sideNums=CAF0F8&dates=ADE8F4)
+![Sequência de contribuições](https://streak-stats.demolab.com?user=Joaop-Aragao&hide_border=true&background=0D1B2A&ring=00B4D8&fire=48CAE4&currStreakLabel=CAF0F8&sideLabels=90E0EF&currStreakNum=CAF0F8&sideNums=CAF0F8&dates=ADE8F4)
 
 </div>
 
